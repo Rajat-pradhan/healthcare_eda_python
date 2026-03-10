@@ -48,7 +48,7 @@ healthcare-eda-project
 │   └── plots.png
 │
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
@@ -100,4 +100,11 @@ Example plots:
 
 ---
 
+# Author
+- Rajat Pradhan
+- email: rajat20pradhan@gmail.com
+- **Data Analyst Portfolio Project**
+---
+
+⭐ If you find this project useful, consider **starring the repository**.
 
